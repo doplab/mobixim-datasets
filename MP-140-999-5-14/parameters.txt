@@ -1,0 +1,1 @@
+{"collaborative_algorithm": "MP", "reset_threshold_lower_bound": 140, "reset_threshold_upper_bound": 999, "starting_interval": 5, "number_of_devices": 14}
